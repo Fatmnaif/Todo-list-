@@ -1,0 +1,49 @@
+.app {
+  text-align: center;
+}
+h1{
+  margin-top: 100px;
+  color: rgb(83, 47, 47,0.3);
+  font-size: 80px;
+}
+input {
+  padding: 8px;
+  margin-top: 30px;
+  margin-right: 8px;
+  border-radius: 13px;
+  width: 320px;
+  border-color: burlywood;
+}
+
+ul {
+  /* Remove bullet point  */
+  list-style: none;
+margin-right: 90px;
+justify-content: right;
+
+}
+
+button {
+border-radius: 30px;
+background-color: rgb(255, 255, 255);
+border-color: bisque;
+font-size: 15pt;
+color: rgb(89, 60, 60,0.8);
+}
+
+li {
+  margin: 12px 0;
+}
+
+.delete-button {
+  font-size: 10px;
+  margin-left: 8px;
+  
+  border: none;
+  background-color: rgb(123, 103, 103);
+  border-radius: 4px;
+  color: rgba(255, 255, 255, 0.8);
+
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
